@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded' , UI.displayBooks);
 
 //  Event : Add a book
 
-// document.querySelector('#book-form').addEventListener('submit' ,ugf= (e)
+// document.querySelector('#book-form').addEventListener('submit' ,(e)
 // => {
 
 //     // prevent actual submit
